@@ -1,0 +1,46 @@
+/* colors */
+.orange {
+  color: #f78065;
+}
+
+.bg-orange {
+  background-color: #f78065;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.white {
+  color: #fff;
+}
+
+/* sizes */
+.small {
+  font-size: 14px !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #69696946;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f78065;
+}
